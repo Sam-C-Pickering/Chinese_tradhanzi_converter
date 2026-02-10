@@ -1,4 +1,4 @@
-Project Name: SimpleHanzi -- or something else
+Project Name: SimpleHanzi
 -----------------
 Project start:  20th Oct 2025
 Project end: TBD
