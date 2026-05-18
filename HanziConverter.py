@@ -13,7 +13,7 @@
 # implement phonetic notation for each character
 
 
-
+#command to initiate env conda activate hanziconverter_env 
 import opencc
 import pypinyin
 from pypinyin import pinyin, style, lazy_pinyin
@@ -35,7 +35,7 @@ from pypinyin import pinyin, style, lazy_pinyin
 
 # first tone is not indicated for the bopomofo
 
-def trad_taiwan_zhuyin(input_filename: str, output_filename: str = "convhanzi_output.txt"):
+def trad_taiwan_zhuyin(input_filename: str, output_filename: str = "convhanzi_output.txt"): #edit this for your chosen filename
     
     converter_s2tw = opencc.OpenCC('s2tw.json') #simp to trad config json
     with open (input_filename, 'r', encoding='utf-8') as file, open("convhanzi_output.txt", "w", encoding='utf-8') as outfile:
