@@ -1,13 +1,16 @@
 Project Name: SimpleHanzi
 -----------------
-Project start:  20th Oct 2025
-Project end: TBD
+Project start:  Oct 2025
+Project end: Jan 2026
 -----------------
 Goal 
 ----------------
 To create and application to aid with my and other users learning experience primarily for Mandarin.
 I wanted to create an application that can convert hanzi between traditional and simplified with notation support for pinyin and zhuyin with the most common reading for each hanzi.
 I may add additional education material for teaching zhuyin & pinyin using avaliable anki decks as reference to improve exposure of notation types.
+
+Currently the only notation avaliable is Zhuyin or Bopomofo (ㄅ ㄆ ㄇ ㄈ ㄉ ㄊ ㄋ ㄌ ㄍ ㄎ ㄏ ㄐ ㄑ ㄒ ㄓ ㄔ ㄕ ㄖ ㄗ ㄘ ㄙ).
+
 
 ----------------
 Project outline:
