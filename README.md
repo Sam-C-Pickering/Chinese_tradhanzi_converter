@@ -11,6 +11,8 @@ I may add additional education material for teaching zhuyin & pinyin using avali
 
 Currently the only notation avaliable is Zhuyin or Bopomofo (ㄅ ㄆ ㄇ ㄈ ㄉ ㄊ ㄋ ㄌ ㄍ ㄎ ㄏ ㄐ ㄑ ㄒ ㄓ ㄔ ㄕ ㄖ ㄗ ㄘ ㄙ).
 
+<img width="1094" height="82" alt="Screenshot 2026-05-18 213453" src="https://github.com/user-attachments/assets/9b4880d5-fd5e-45e1-996a-2fada44f4f80" />
+
 
 ----------------
 Project outline:
